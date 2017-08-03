@@ -1,0 +1,7 @@
+
+
+
+*  Редактируем: Program Files\JetBrains\WebStorm 2017.2\bin\webstorm64.exe.vmoptions
+          -Xms4000m
+          -Xmx4000m
+          -XX:ReservedCodeCacheSize=1000m
