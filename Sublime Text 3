@@ -1,0 +1,10 @@
+
+# Автосохранение в Sublime Text 3
+{
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true
+}
