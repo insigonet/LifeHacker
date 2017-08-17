@@ -1,3 +1,20 @@
+# Устанавлемые расширения
+1. Первым автоматически устанавливается
+	Package Control
+	
+2.	Emmet
+3.	JavaScript & NodeJS Snippets
+4.	BracketHighlighter
+5.	Sublime Linter
+6.	SublimeLinter-csslint
+7.	SublimeLinter-php
+8.	SublimeLinter-phplint
+9.	SublimeLinter-html-tidy
+10.	SublimeLinter-jsl
+11.	SublimeLinter-jshint
+12.	LESS
+13.	JSHint
+
 
 # Автосохранение в Sublime Text 3
 {
