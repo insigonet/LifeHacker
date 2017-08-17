@@ -6,6 +6,7 @@
 	
 2.	Emmet
 3.	SublimeCodeIntel	// Автокомплит для языков программирования и HTML
+4.	HTML-CSS-JS Prettify	// Для выравнивания кода, Ctrl + Shift + H
 
 
 3.	JavaScript & NodeJS Snippets
@@ -43,3 +44,14 @@
 
 # Комбинации клавиш
 	Ctr + K + B	Показать/скрыть сайдбар слева
+
+# Выравнивание отступов
+	Ctrl+Shift+P → Indentation: Reindent lines
+	# Можно еще добавить хоткей в Preferences --> Key Bindings
+	[
+	  // Выравниваем
+	  {"keys": ["ctrl+shift+r"], "command": "reindent", "args": {"single_line": false} },
+
+	  // Преабразуем пробелы в табы
+	  { "keys": ["ctrl+shift+x"], "command": "unexpand_tabs", "args": { "set_translate_tabs": false } },
+	]
