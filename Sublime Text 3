@@ -7,6 +7,15 @@
 2.	Emmet
 3.	SublimeCodeIntel	// Автокомплит для языков программирования и HTML
 4.	HTML-CSS-JS Prettify	// Для выравнивания кода, Ctrl + Shift + H
+5.	AutoFileName		// Выдает подсказки пути при подключении файлов
+6.	CSScomb			// Сортировка кода CSS, Ctrl + Shift + C
+7. 	jQuery
+8.	All Autocomplete	// Предлагает наиболее релевантные варианты продолжения слова
+9.	SideBarEnhancments	// Расширяет возможности сайдбара
+10.	javaScript Completions	// Автокомплит кода на JavaScript
+
+# Дополнительные пакеты
+	css extended conpletions	// Миксины
 
 
 3.	JavaScript & NodeJS Snippets
@@ -20,7 +29,7 @@
 11.	SublimeLinter-jshint
 12.	LESS
 13.	JSHint
-14.	AutoFileName
+14.	
 15.	All Autocomplete
 
 # Устанавливаем тему
