@@ -1,8 +1,12 @@
 # Устанавлемые расширения
+# Справка на https://www.youtube.com/watch?v=6ZKuJyd4Wdk
 1. Первым автоматически устанавливается
 	Package Control
 	
 2.	Emmet
+3.	SublimeCodeIntel	// Автокомплит для языков программирования и HTML
+
+
 3.	JavaScript & NodeJS Snippets
 4.	BracketHighlighter
 5.	Sublime Linter
