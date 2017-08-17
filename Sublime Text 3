@@ -11,19 +11,19 @@
 6.	CSScomb			// Сортировка кода CSS, Ctrl + Shift + C
 7. 	jQuery
 8.	All Autocomplete	// Предлагает наиболее релевантные варианты продолжения слова
-9.	SideBarEnhancments	// Расширяет возможности сайдбара
-10.	javaScript Completions	// Автокомплит кода на JavaScript
+9.	SideBarEnhancements	// Расширяет возможности сайдбара
+10.	JavaScript Completions	// Автокомплит кода на JavaScript
 11.	WordPress		// Автокомплит кода WordPress
-12.	less			// Подсветка синтаксиса less
-13.	scss			// Подсветка синтаксиса scss
-14.	Sublime Linter
+12.	LESS			// Подсветка синтаксиса less
+13.	SCSS			// Подсветка синтаксиса scss
+14.	SublimeLinter
 15.	SublimeLinter-html-tidy
 16.	SublimeLinter-csslint
 17.	SublimeLinter-jsl
 18.	SublimeLinter-jshint
 19.	SublimeLinter-php
 20.	SublimeLinter-phplint
-21.	JSHint
+21.	----- JSHint
 
 # Дополнительные настройки после установки пакетов:
 # https://habrahabr.ru/post/262137/
