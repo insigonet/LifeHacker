@@ -13,24 +13,45 @@
 8.	All Autocomplete	// Предлагает наиболее релевантные варианты продолжения слова
 9.	SideBarEnhancments	// Расширяет возможности сайдбара
 10.	javaScript Completions	// Автокомплит кода на JavaScript
+11.	WordPress		// Автокомплит кода WordPress
+12.	less			// Подсветка синтаксиса less
+13.	scss			// Подсветка синтаксиса scss
+14.	Sublime Linter
+15.	SublimeLinter-html-tidy
+16.	SublimeLinter-csslint
+17.	SublimeLinter-jsl
+18.	SublimeLinter-jshint
+19.	SublimeLinter-php
+20.	SublimeLinter-phplint
+21.	JSHint
+
+# Дополнительные настройки после установки пакетов:
+# https://habrahabr.ru/post/262137/
+
+1. Скачиваем tidy.exe и кладем его system32
+	http://www.paehl.com/open_source/?HTML_Tidy_for_Windows
+2. Скачиваем и устанавливаем node.js
+	https://nodejs.org/uk/
+3. Добавляем путь в path
+	Win10 --> Win + PAUSE --> Дополнительные параметры о системе
+	C:\Users\Insigo\AppData\Roaming\npm
+
+3. Устанавливаем пакеты:
+	npm install -g csslint
+	npm install -g jslint
+	npm install -g jshint
+
+#*************************************************************************************************#
 
 # Дополнительные пакеты
+	JavaScript & NodeJS Snippets	// Снипеты для JS
 	css extended conpletions	// Миксины
-
-
-3.	JavaScript & NodeJS Snippets
-4.	BracketHighlighter
-5.	Sublime Linter
-6.	SublimeLinter-csslint
-7.	SublimeLinter-php
-8.	SublimeLinter-phplint
-9.	SublimeLinter-html-tidy
-10.	SublimeLinter-jsl
-11.	SublimeLinter-jshint
-12.	LESS
-13.	JSHint
-14.	
-15.	All Autocomplete
+	bootstrap 3 snippets		// Типпа emmet для бутстрапа
+	DocBlockr			// Помогает в написании комментов
+	Console wraprap for JS		// Помогает допысывать вывод на консоль
+	Can I Use			// Проверка совместимости с браузерами
+	css3				// Подсветка кода css (нужно отключить плагин css)
+	BracketHighlighter
 
 # Устанавливаем тему
 	Material Theme
