@@ -23,6 +23,7 @@
 18.	SublimeLinter-jshint
 19.	SublimeLinter-php
 20.	SublimeLinter-phplint
+21.	BracketHighlighter
 21.	----- JSHint
 
 # Дополнительные настройки после установки пакетов:
