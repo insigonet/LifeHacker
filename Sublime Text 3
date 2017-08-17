@@ -15,6 +15,13 @@
 12.	LESS
 13.	JSHint
 
+# Устанавливаем тему
+	Material Theme
+	# Активация темы
+	- Command palette `Tools > Command Palette` -->  Вводим `Material Theme: Activate theme`.
+	# Смена цветов темы
+	 Command palette `Tools > Command Palette` --> Material Theme: Configuration --> Color Theme --> Material Theme
+
 
 # Автосохранение в Sublime Text 3
 {
